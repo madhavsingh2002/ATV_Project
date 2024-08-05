@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27603633863",
+    "project_id": "flutter-bloc-7db50",
+    "storage_bucket": "flutter-bloc-7db50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27603633863:android:63b421b86b9d08ffcde0e2",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_bloc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtLhQaH836-zT1VhZyr6fMukmc0bxF7PM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
